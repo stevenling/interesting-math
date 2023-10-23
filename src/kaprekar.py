@@ -72,7 +72,7 @@ def get_all_kaprekar_process(number):
 
         # print("\n")
         file.write("\n")
-    # print(str(max_count))
+    print(str(max_count))
 
 
 if __name__ == "__main__":
